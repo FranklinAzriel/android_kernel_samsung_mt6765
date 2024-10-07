@@ -138,3 +138,6 @@ prebuilts/
 
 # Out directory
 out/
+
+# Github Workflows
+!.github
