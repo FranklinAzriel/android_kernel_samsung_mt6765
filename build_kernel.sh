@@ -25,8 +25,8 @@ export KCFLAGS=-w
 export CONFIG_SECTION_MISMATCH_WARN_ONLY=y
 
 # Set variable android version
-export PLATFORM_VERSION=13
-export ANDROID_MAJOR_VERSION=t
+export PLATFORM_VERSION=14
+export ANDROID_MAJOR_VERSION=r
 
 # Set variable user info for building kernel
 export KBUILD_BUILD_USER=$(whoami)
